@@ -1,4 +1,8 @@
-## RaspberryDAO (Decentralised Automnomous Organisation)
+## RaspberryDAO-UI
+
+RaspberryDAO-UI Project is a frontend of RaspberryDAO ecosystem which is used for the community based management of NFTs and assets locked in the treasury when user tries to swap from Ethereum to Godowoken NFTs [RaspberryDAO-User-UI](https://github.com/hidotmatrix/RaspberryDAO-User-UI). This project act as manager of locked NFTs into the bridge smart contracts.
+
+## RaspberryDAO
 
 RaspberryDAO is an ERC20 based governance mechanism.
 
